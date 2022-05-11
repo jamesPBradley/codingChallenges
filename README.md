@@ -12,10 +12,10 @@ I do daily challenges for a few reasons:
 * Daily practice = repetition of core concepts
 * What better way to deepen my understanding of a language than to use it?
 
-## :notebook: Optimizations
+## :gear: Optimizations
 
 These challenges are a study aid for me, so you may see multiple solutions per file. As I learn, I return to problems and refactor solutions.
 
-## Lessons Learned
+## :notebook: Lessons Learned
 
-* I strive for daily growth - these challenges are a reminder that failure is part of the process. If I struggle with one of the challenges, I learn from it and continue trucking.
+I strive for daily growth - these challenges are a reminder that failure is part of the process. If I struggle with one of the challenges, I learn from it and continue trucking.
