@@ -1,5 +1,3 @@
-// Objective
-// Preloaded for you is a class Dog:
 
 // class Dog {
 //   constructor(name, age, gender, species, size, master, loyal) {
@@ -13,7 +11,6 @@
 //     this.loyal = loyal;
 //   }
 // }
-// You are then given a working class Labrador as your initial code.
 
 // class Labrador {
 //   constructor(name, age, gender, master) {
@@ -27,7 +24,6 @@
 //     this.loyal = true;
 //   }
 // }
-// Shorten it so that it meets the strict character count requirements for this Kata.
 
 //p: class
 //r: obj
