@@ -9,7 +9,7 @@ class DataSet {
     setMean() {
       return this.mean = this.data.reduce((a,b) => a+b) / this.data.length
     }
-    setVar(variance) {
+    setVar() {
       this.variance = this.data.map(x => (x-this.mean)**2).reduce((a,b)=>a+b) / this.data.length;
       this.stdDeviation = Math.sqrt(this.variance);
       return this.variance;
