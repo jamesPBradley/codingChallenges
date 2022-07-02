@@ -4,9 +4,8 @@
 //r: number
 
 function getSum(a,b) {
-    let input = [a,b].sort();
     let sum = 0;
-    for(let i=Math.min(...input); i<=Math.max(...input); i++) {
+    for(let i=Math.min(a,b); i<=Math.max(a,b); i++) {
         sum += i;
     }
     return sum;
