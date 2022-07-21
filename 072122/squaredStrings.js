@@ -2,6 +2,7 @@
 //r: string
 
 function vertMirror(s) {
+    // split string into array and reverse each set of letters
     return s
             .split('\n')
             .map(element => element.split('').reverse().join(''))
@@ -9,6 +10,7 @@ function vertMirror(s) {
 }
 
 function horMirror(s) {
+    // split string into array and reverse array order
     return s
             .split('\n')
             .reverse()
@@ -16,6 +18,7 @@ function horMirror(s) {
 }
 
 function oper(fct,s) {
+    // pass string into one of the functions
     return fct(s);
 }
 
