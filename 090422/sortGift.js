@@ -7,7 +7,6 @@ function sortGiftCode(str) {
     // make arr a str
     // return str
     return str.split('').sort().join('');
-
 }
 
 console.log(sortGiftCode('abcdef'), 'abcdef');
