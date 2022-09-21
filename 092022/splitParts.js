@@ -19,7 +19,7 @@ function splitInParts(str,n) {
         }
     }
     // join and return the variable created
-    return result.join('')
+    return result.join('');
 }
 
 console.log(splitInParts("supercalifragilisticexpialidocious", 3), "sup erc ali fra gil ist ice xpi ali doc iou s")
